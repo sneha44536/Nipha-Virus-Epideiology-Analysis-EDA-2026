@@ -22,10 +22,10 @@ Using the nipah_bangladesh_2026.csv dataset, I performed specific data cleaning 
 * *Case vs. Contact:* Analyzed the ratio of primary cases to secondary contacts to understand transmission depth.
 * *Status Visualization:* Used custom color-coding (Green/Red/Orange) to track 'Cleared' vs 'Symptomatic' patients.
 
-##  Technical Stack
+##  Technical Stack.
 * *Language:* Python 3.x
 * *Data Manipulation:* Pandas, NumPy
-* *Data Visualization:* Matplotlib (using dark_background style for modern UI)
+* *Data Visualization:* Matplotlib (using dark_background style for modern UI),Bar chart.
 * *Environment:* Jupyter Notebook
 
 ##  Featured Visualizations
