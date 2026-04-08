@@ -25,7 +25,7 @@ Using the nipah_bangladesh_2026.csv dataset, I performed specific data cleaning 
 ##  Technical Stack.
 * *Language:* Python 3.x
 * *Data Manipulation:* Pandas, NumPy
-* *Data Visualization:* Matplotlib (using dark_background style for modern UI),Bar chart.
+* *Data Visualization:* Matplotlib (using dark_background style for modern UI),Bar plot,Horizontal Bar plot.
 * *Environment:* Jupyter Notebook
 
 ##  Featured Visualizations
