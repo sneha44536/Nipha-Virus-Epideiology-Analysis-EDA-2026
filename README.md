@@ -10,7 +10,7 @@
 # Nipah Virus (NiV): Historical Trends & Case Study Analysis 🦠
 
 ## Project Overview
-This repository contains a comprehensive data analysis of the Nipah Virus, a zoonotic pathogen with high mortality rates. The project is divided into two main parts:
+This repository contains a comprehensive data analysis of the Nipah Virus, a zoonotic pathogen with high mortality rates. The project is divided into two main parts: where the analysis is done on the two diffrent levels.
 1. *Global Historical Analysis (1998 - 2026):* Visualizing death counts, mortality rates, and transmission sources across different countries.
 2. *Local Case Study (Rajshahi, 2026):* A detailed look at patient demographics, symptom distribution, and recovery status from the latest outbreak data.
 
@@ -21,7 +21,7 @@ In this section, I analyzed historical data to identify long-term patterns:
 * *Symptom Distribution:* A horizontal bar chart identifying the most common clinical signs (Fever, Headache, Seizures, etc.).
 
 ##  Part 2: Rajshahi Outbreak Case Study
-Using the nipah_bangladesh_2026.csv dataset, I performed specific data cleaning and visualization:
+Using the  original nipah_bangladesh_2026.csv dataset from kaggle, I performed specific data cleaning and visualization:
 * *Data Mapping:* Standardized 'Gender' values to 'M' and 'F' for better plot aesthetics.
 * *Case vs. Contact:* Analyzed the ratio of primary cases to secondary contacts to understand transmission depth.
 * *Status Visualization:* Used custom color-coding (Green/Red/Orange) to track 'Cleared' vs 'Symptomatic' patients.
@@ -34,7 +34,7 @@ Using the nipah_bangladesh_2026.csv dataset, I performed specific data cleaning 
 
 ##  Featured Visualizations
 > [!TIP]
-> Use the dark-themed plots from your notebook here! They look incredibly professional.
+> Use the dark-themed plots from your notebook here! They look incredibly professional. 
 
 
 ##  Key Findings
