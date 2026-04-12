@@ -34,7 +34,7 @@ Using the  original nipah_bangladesh_2026.csv dataset from kaggle, I performed s
 
 ##  Featured Visualizations
 > [!TIP]
-> Use the dark-themed plots from your notebook here! They look incredibly professional. 
+> Use the dark-themed plots from my jyupter notebook here! They look incredibly professional and classy too. 
 
 
 ##  Key Findings
