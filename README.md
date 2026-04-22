@@ -36,7 +36,6 @@ Using the  original nipah_bangladesh_2026.csv dataset from kaggle, I performed s
 > [!TIP]
 > Use the dark-themed plots from my jyupter notebook here! They look incredibly professional and classy too. 
 
-
 ##  Key Findings
 * *Demographics:* Identifying specific age groups (e.g., 20-40) that are more frequently symptomatic.
 * *Transmission:* Confirming the role of "Raw Date Palm Sap" as a primary transmission source in the 2026 data.
