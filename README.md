@@ -1,7 +1,5 @@
 # Nipha-Virus-Epideiology-Analysis-EDA-2026
 "A comprehensive Python-based analysis of Nipah Virus (NiV) outbreak data. This project investigates demographic trends, transmission sources (like raw date palm sap), and patient outcomes through data visualization and preprocessing."
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%23E06E7F.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -42,6 +40,9 @@ Using the  original nipah_bangladesh_2026.csv dataset from kaggle, I performed s
 * *Clinical Insights:* Highlighting the prevalence of "Fever" and "Death Symptoms" in positive cases.
 
 ## 🚀 How to Use
+
+
+
 1. Clone the repository.
 2. Ensure you have the datasets csv_dataset.csv and nipah_bangladesh_2026.csv in the root folder.
 3. Run the Jupyter Notebook to reproduce the plots.
