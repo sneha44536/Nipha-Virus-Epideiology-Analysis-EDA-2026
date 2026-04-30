@@ -40,9 +40,6 @@ Using the  original nipah_bangladesh_2026.csv dataset from kaggle, I performed s
 * *Clinical Insights:* Highlighting the prevalence of "Fever" and "Death Symptoms" in positive cases.
 
 ## 🚀 How to Use
-
-
-
 1. Clone the repository.
 2. Ensure you have the datasets csv_dataset.csv and nipah_bangladesh_2026.csv in the root folder.
 3. Run the Jupyter Notebook to reproduce the plots.
