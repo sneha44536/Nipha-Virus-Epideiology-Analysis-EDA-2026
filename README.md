@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%23E06E7F.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/
+)
 
 # Nipah Virus (NiV): Historical Trends & Case Study Analysis 🦠
 
